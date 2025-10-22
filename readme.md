@@ -147,7 +147,6 @@ public List<AbstractProduct> findAll();
 // вернуть копию списка
 
 public List<AbstractProduct> findByCategory(String category);
-// без стримов: обычный цикл, собираем подходящие в List
 ```
 
 ---
